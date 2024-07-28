@@ -1,0 +1,67 @@
+/* Specific styles for Test Grading page */
+
+.App {
+  text-align: center;
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #1F2833;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.upload-section {
+  margin: 20px 0;
+}
+
+.uploaded-image {
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.grade-container {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  background-color: #1F2833;
+  text-align: left;
+  color: #C5C6C7;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #45A29E;
+  color: #ffffff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #66FCF1;
+}
+
+.btn-secondary {
+  background-color: #C5C6C7;
+  color: #1F2833;
+}
+
+.btn-secondary:hover {
+  background-color: #66FCF1;
+}
+
+.btn-info {
+  background-color: #66FCF1;
+  color: #1F2833;
+}
+
+.btn-info:hover {
+  background-color: #45A29E;
+}

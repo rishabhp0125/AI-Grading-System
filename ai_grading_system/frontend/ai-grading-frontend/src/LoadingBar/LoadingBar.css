@@ -1,0 +1,15 @@
+.loading-bar-container {
+    width: 100%;
+    background-color: #e1e1e1;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-top: 20px;
+  }
+  
+  .loading-bar {
+    height: 8px;
+    background-color: #007bff;
+    transition: width 0.4s ease;
+  }
+  
+  

@@ -1,0 +1,28 @@
+.upload-rubric {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.upload-rubric h2 {
+  font-size: 1.5rem;
+  color: #66FCF1;
+}
+
+.upload-rubric input[type="file"] {
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
+.upload-rubric button {
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  background-color: #45A29E;
+  color: #ffffff;
+}
+
+.upload-rubric button:hover {
+  background-color: #66FCF1;
+}
